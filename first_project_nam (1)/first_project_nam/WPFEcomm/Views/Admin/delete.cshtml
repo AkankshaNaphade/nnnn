@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "delete";
+}
+
+<h2>delete</h2>
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary()
+    <p>
+        <label>Id</label>
+        <input name="Id" />
+    </p>
+    <p>
+
+        <input type="submit" value="Delete" />
+    </p>
+}

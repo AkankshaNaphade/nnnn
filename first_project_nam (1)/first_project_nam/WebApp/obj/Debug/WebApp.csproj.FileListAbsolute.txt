@@ -1,0 +1,2 @@
+E:\nam adjava\dot_net\first_project\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+E:\nam adjava\dot_net\first_project\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache

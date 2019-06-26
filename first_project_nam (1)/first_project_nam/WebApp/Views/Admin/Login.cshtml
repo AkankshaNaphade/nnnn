@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "SignIn";
+}
+
+<h2>SignIn</h2>
+
+<h3>Please Enter Your Credentails...</h3>
+ 
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary()
+    <p>
+        <label>Email:</label>
+        <input name="Email" />
+    </p>
+    <p>
+        <label>Password:</label>
+        <input name="Password" type="password" />
+    </p>
+    <input type="submit" value="Log in" />
+}
+
+@Html.ActionLink("Register","Register")

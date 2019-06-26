@@ -1,0 +1,10 @@
+E:\nam adjava\dot_net\first_project\BOL\bin\Debug\BOL.dll
+E:\nam adjava\dot_net\first_project\BOL\bin\Debug\BOL.pdb
+E:\nam adjava\dot_net\first_project\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+E:\nam adjava\dot_net\first_project\BOL\obj\Debug\BOL.dll
+E:\nam adjava\dot_net\first_project\BOL\obj\Debug\BOL.pdb
+E:\nam adjava\dot_net\first_project_nam\BOL\bin\Debug\BOL.dll
+E:\nam adjava\dot_net\first_project_nam\BOL\bin\Debug\BOL.pdb
+E:\nam adjava\dot_net\first_project_nam\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+E:\nam adjava\dot_net\first_project_nam\BOL\obj\Debug\BOL.dll
+E:\nam adjava\dot_net\first_project_nam\BOL\obj\Debug\BOL.pdb
